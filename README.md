@@ -1,7 +1,7 @@
 # Ioniq5_EDISON_CFD
 ![Notes_220604_144149_0f8](https://user-images.githubusercontent.com/88171531/171987426-396cc132-662d-4712-9e42-089c760739dc.jpg)
-![Notes_220604_150546_5c6](https://user-images.githubusercontent.com/88171531/171987428-c27df979-f396-4cc3-ab75-6f6b1882c340.jpg)
-![Notes_220604_151109_310](https://user-images.githubusercontent.com/88171531/171987430-bc14555b-e3f1-41d2-a37d-a4c0277b0dd1.jpg)
-![Notes_220604_151601_89c](https://user-images.githubusercontent.com/88171531/171987431-8935880b-a3c9-46b3-97dd-5c4ef17e4273.jpg)
-![화면 캡처 2022-06-04 153223](https://user-images.githubusercontent.com/88171531/171987823-ef4c939d-f06d-4c92-b436-6f7b20ccbcba.png)
-![화면 캡처 2022-06-04 153506](https://user-images.githubusercontent.com/88171531/171987825-43fa693d-c35d-4f49-b93b-7f37496a82d7.png)
+![화면 캡처 2022-06-04 233849](https://user-images.githubusercontent.com/88171531/172007818-19452863-5d0a-4ca5-b939-90a9803bbfa1.png)
+![화면 캡처 2022-06-04 233929](https://user-images.githubusercontent.com/88171531/172007820-6feec086-dbd4-493f-ab1b-c537b80490da.png)
+![화면 캡처 2022-06-04 170055](https://user-images.githubusercontent.com/88171531/172007821-b762168c-ce6e-4888-812b-714ac8e313f2.png)
+![화면 캡처 2022-06-04 172212](https://user-images.githubusercontent.com/88171531/172007823-109f415d-2e13-4548-bf17-1b6dc509d1a3.png)
+![화면 캡처 2022-06-04 233753](https://user-images.githubusercontent.com/88171531/172007824-ba62b2ac-76e7-43af-b7ce-ce77764dea6b.png)

@@ -14,6 +14,7 @@
 ![ioniq5_cd](https://user-images.githubusercontent.com/88171531/172041572-0a882cc5-c156-40ce-8c6f-01a6af4890fe.png)
 Drag = -215.8 N
 ![KakaoTalk_20220605_170722306](https://user-images.githubusercontent.com/88171531/172058126-ef375888-0fa8-4562-9baf-93f51e308057.png)
+Drag = -185.15 N
 
 ## Pressure field
 ![ioniq5_pressure_field](https://user-images.githubusercontent.com/88171531/172041577-7f93d891-cf33-4ab0-95c1-ac5e215a4ee6.png)

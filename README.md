@@ -1,5 +1,6 @@
 # IONIQ5 EDISON vs ANSYS CFD
-![KakaoTalk_20220604_162842997](https://user-images.githubusercontent.com/88171531/172058088-27436052-dae9-4e90-8f71-b6057e29eefb.png)
+![화면 캡처 2022-06-06 003943](https://user-images.githubusercontent.com/88171531/172058551-6797e341-a1ec-471c-a851-f9d08dd16979.png)
+
 
 ## Mesh
 ![ioniq5_mesh](https://user-images.githubusercontent.com/88171531/172041546-979190bb-05bf-4954-a49d-96726708997e.png)

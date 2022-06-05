@@ -1,4 +1,4 @@
-# IONIQ5 EDISON CFD vs ANSYS CFD
+# IONIQ5 EDISON vs ANSYS CFD
 ![KakaoTalk_20220604_162842997](https://user-images.githubusercontent.com/88171531/172058088-27436052-dae9-4e90-8f71-b6057e29eefb.png)
 
 ## Mesh
@@ -12,6 +12,7 @@
 ## C_l, C_d(mesh unit 1.5)
 ![ioniq5_cl](https://user-images.githubusercontent.com/88171531/172041570-5f2bbb5e-e76f-440c-8b20-c4715723b208.png)
 ![ioniq5_cd](https://user-images.githubusercontent.com/88171531/172041572-0a882cc5-c156-40ce-8c6f-01a6af4890fe.png)
+Drag = -215.8 N
 ![KakaoTalk_20220605_170722306](https://user-images.githubusercontent.com/88171531/172058126-ef375888-0fa8-4562-9baf-93f51e308057.png)
 
 ## Pressure field
